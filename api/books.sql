@@ -174,7 +174,8 @@ INSERT INTO `books` (`id`, `name`, `poster`, `description`, `author_id`) VALUES
 (107, 'Why Call Them Back From Heaven?', NULL, NULL, 8),
 (108, 'The Werewolf Principle', NULL, NULL, 8),
 (109, 'The Goblin Reservation', NULL, NULL, 8),
-(110, 'Out of Their Minds', NULL, NULL, 8),
+(110, 'Out of Their Minds', 'http://t3.gstatic.com/images?q=tbn:ANd9GcR-9dzdhR4XOKYUsq04ZHVWdOMftnX_3Kkr848J3pyiusOBWjni', 'This best-selling book is now available in an inexpensive softcover format.
+Imagine living during the Renaissance and being able to interview that eras greatest scientists about their inspirations, discoveries, and personal interests. The latter half of our century has seen its own Renaissance - informations technology has changed irrevocable the way we live, work, and think about the world. We are fortunate, therefore, that the authors of Out of Their Minds have been able to talk so candidly with the founders of computer science', 8),
 (111, 'Destiny Doll', NULL, NULL, 8),
 (112, 'A Choice of Gods', NULL, NULL, 8),
 (113, 'Cemetery World', NULL, NULL, 8),
